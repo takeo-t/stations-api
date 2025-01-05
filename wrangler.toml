@@ -112,3 +112,8 @@ enabled = true
 # [[vectorize]]
 # binding = "MY_INDEX"
 # index_name = "my-index"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "stations"
+database_id = "b69b2145-3918-47f9-bdd2-9959bd67ed55"
